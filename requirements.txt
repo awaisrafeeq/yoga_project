@@ -1,6 +1,5 @@
 fastapi==0.116.1
 matplotlib==3.10.6
-mediapipe==0.10.14
 numpy==2.3.2
 opencv_contrib_python==4.10.0.84
 opencv_python==4.11.0.86

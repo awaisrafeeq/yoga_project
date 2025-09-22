@@ -1,0 +1,16 @@
+fastapi==0.116.1
+matplotlib==3.10.6
+mediapipe==0.10.14
+numpy==2.3.2
+opencv_contrib_python==4.10.0.84
+opencv_python==4.11.0.86
+Pillow==11.3.0
+pydantic==2.11.7
+Requests==2.32.5
+scikit_learn==1.7.2
+torch==2.7.0
+ultralytics==8.3.135
+uvicorn==0.35.0
+websocket_client==1.8.0
+websockets==15.0.1
+pyttsx3==2.99

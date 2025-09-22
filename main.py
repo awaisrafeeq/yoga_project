@@ -54,9 +54,9 @@ active_sessions = {}
 active_connections: Dict[str, WebSocket] = {}
 
 # Configuration
-MODEL_PATH = r"E:\Ai Data House Intern\nalla-maneendra-ai-full-stack-developer\newmilestonw\yoga\pose correction.pkl"
-REFERENCES_PATH = r"E:\Ai Data House Intern\nalla-maneendra-ai-full-stack-developer\newmilestonw\yoga\angles_final.pkl"
-YOLO_MODEL_PATH = r"E:\Ai Data House Intern\nalla-maneendra-ai-full-stack-developer\newmilestonw\yoga\yolo11x-pose.pt"
+MODEL_PATH = r"https://github.com/awaisrafeeq/yoga_project/blob/master/pose%20correction.pkl"
+REFERENCES_PATH = r"https://github.com/awaisrafeeq/yoga_project/blob/master/angles_final.pkl"
+YOLO_MODEL_PATH = r"https://github.com/awaisrafeeq/yoga_project/blob/master/yolo11x-pose.pt"
 
 # Pydantic models
 class SessionStartRequest(BaseModel):
